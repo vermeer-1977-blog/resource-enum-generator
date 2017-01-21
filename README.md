@@ -1,0 +1,2 @@
+# resource-enum-generator
+annotation-processorを用いてリソースからEnumクラスを作成する
